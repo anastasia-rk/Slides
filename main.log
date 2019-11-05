@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2019.3.7)  4 NOV 2019 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2019.3.7)  5 NOV 2019 00:49
 entering extended mode
 **./main.tex
 (main.tex
@@ -1791,7 +1791,68 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 
 ] [3
 
-] [4
+]
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 115.
+
+
+("C:\Users\uos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 115.
+
+[4
+
+] [5
+
+] [6
+
+] (Tables/example_table.tex) [7
+
+] (Tikzes/example_tikz.tikz) [8
+
+]
+<Figures/example_figure.png, id=330, 537.50812pt x 460.72125pt>
+File: Figures/example_figure.png Graphic file (type png)
+<use Figures/example_figure.png>
+Package pdftex.def Info: Figures/example_figure.png  used on input line 138.
+(pdftex.def)             Requested size: 165.96965pt x 142.26378pt.
+
+[9
+
+ <./Figures/example_figure.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 167.
+ [10
+
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+] [15
+
+]
+[16
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 192.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 192.
+ ("C:\Users\uos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `pcr' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [17
+
+ <C:/Users/uos/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/art/beamericona
+rticle.pdf>] [18
 
 ]
 \tf@nav=\write8
@@ -1803,13 +1864,13 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 \tf@snm=\write10
 \openout10 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: ABD483FC4ADB1A7E25836EBB32811DEB;165.
+(rerunfilecheck)             Checksum: 8CB319DD58069072AABCF271C221C11D;200.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1817,24 +1878,31 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 41157 strings out of 492979
- 970942 string characters out of 3127622
- 1376617 words of memory out of 12000000
- 44144 multiletter control sequences out of 15000+200000
- 45267 words of font info for 73 fonts, out of 3000000 for 9000
+ 42129 strings out of 492979
+ 992324 string characters out of 3127622
+ 1391369 words of memory out of 12000000
+ 44992 multiletter control sequences out of 15000+200000
+ 77447 words of font info for 129 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,17n,96p,945b,1994s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,17n,119p,1765b,1994s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.
-pfb><C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8
-a.pfb><C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utm
-r8a.pfb>
-Output written on main.pdf (4 pages, 163508 bytes).
+C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Users/uos/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/uos/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/uos/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/uos/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/uos/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/uos/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/uos/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (18 pages, 362432 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 16570 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 679 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 43207 words of extra memory for PDF output out of 51595 (max. 10000000)
 
